@@ -1,0 +1,22 @@
+body {
+    font-size: 12pt;
+}
+div.head img {
+  height:auto;
+  width:100%;
+ 
+}
+h1.head {
+  text-align: center;
+}
+tr td a{
+  color: red;
+  font-weight: bold;
+}
+img{
+  width: 100%;
+  height :auto;
+}
+a {
+  color: black;
+}
